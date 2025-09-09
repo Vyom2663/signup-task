@@ -2,9 +2,9 @@ import React from "react";
 
 const RightSection = () => {
   return (
-    <div className="flex flex-col px-18 py-14">
+    <div className="flex flex-col px-14 lg:px-18 py-10 lg:py-14">
       <div className="mb-14">
-        <p className="text-[34px] text-[rgb(035,035,035)] leading-tight font-semibold">
+        <p className="text-[28px] lg:text-[34px] text-[rgb(035,035,035)] leading-tight font-semibold">
           Let’s get started <br />
           with a few simple steps
         </p>
